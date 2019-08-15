@@ -13,14 +13,14 @@
 <meta property="og:locale" content="en_US" />
 <meta name="description" content="COSC1107A1" />
 <meta property="og:description" content="COSC1107A1" />
-<link rel="canonical" href="https://s3752180.github.io/Assignment1/" />
-<meta property="og:url" content="https://s3752180.github.io/Assignment1/" />
-<meta property="og:site_name" content="Assignment1" />
+<link rel="canonical" href="https://s3752180.github.io/Assignment for IT/" />
+<meta property="og:url" content="https://s3752180.github.io/Assignment for IT/" />
+<meta property="og:site_name" content="Assignment for IT" />
 <script type="application/ld+json">
-{"headline":"Welcome to My Profile","@type":"WebSite","url":"https://s3752180.github.io/Assignment1/","name":"Assignment1","description":"COSC1107A1","@context":"http://schema.org"}</script>
+{"headline":"Welcome to My Profile","@type":"WebSite","url":"https://s3752180.github.io/Assignment for IT/","name":"Assignment for IT","description":"COSC1107A1","@context":"http://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
-    <link rel="stylesheet" href="/Assignment1/assets/css/style.css?v=5a7d4a30650601aec3884d7d941bcd0b7682b612">
+    <link rel="stylesheet" href="/Assignment for IT/assets/css/style.css?v=5a7d4a30650601aec3884d7d941bcd0b7682b612">
     <!--[if lt IE 9]>
     <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
@@ -28,14 +28,15 @@
   <body>
     <div class="wrapper">
       <header>
-        <h1><a href="https://s3752180.github.io/Assignment1/">Assignment1</a></h1>
-        <script src="/Assignment1/assets/js/scale.fix.js"></script>
+        <img src="CA.PNG" alt="ca" />
+        <h1><a href="https://s3752180.github.io/Assignment for IT/">Assignment for IT</a></h1>
+        <script src="/Assignment for IT/assets/js/scale.fix.js"></script>
         
 
         <p>COSC1107A1</p>
 
         
-        <p class="view"><a href="https://github.com/s3752180/Assignment1">View the Project on GitHub <small>s3752180/Assignment1</small></a></p>
+        <p class="view"><a href="https://github.com/s3752180/Assignment for IT">View the Project on GitHub <small>s3752180/Assignment1</small></a></p>
         
 
         
